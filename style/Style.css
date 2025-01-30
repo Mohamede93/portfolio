@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #131316;
+    
+}
+
+.home{
+    padding-top: 80px;
+}
+.profil{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 32px;
+    background-color: aliceblue;
+    border-radius: 100%;
+}
+.profil img {
+    width: 98%;
+    align-items: center;
+    margin: auto;
+    border-radius: 100%;
+}
+
+.collapse {
+    display: flex;
+    justify-content: end;
+}
+
+.myName{
+    margin: auto;
+    text-align: center;
+    color: #7a7a7a;
+}
+.myMail{
+    color: #7a7a7a;
+    font-style: normal;
+margin: 24px;
+font-size: 32px;
+}
+.card{
+    background-color:#131316 ;
+    color: #7a7a7a;
+    margin: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: 1px solid #7a7a7a;
+
+}
+.proj{
+    color: #7a7a7a;
+    margin: 32px;
+    margin-top: 56px;
+    padding-top: 48px;
+}
+.uxProj{
+    border: 1px solid #7a7a7a;
+    width: 100%;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+}
+.uxProj img{
+    border-radius: 16px;
+    box-shadow: 4px 0px 8px -4px rgba(150,150,150,0.75);
+}
+.uxProj h2{
+    margin: 32px;
+    color: #7a7a7a;
+}
+.uxProj p{
+    margin: 32px;
+    color: #7a7a7a;
+}
+.ata{
+    width: 43%;
+
+}
+.yumm{
+    width: 65%;
+}
+
+.contact{
+    margin-top: 64px;
+
+    padding:64px ;
+    color: #7a7a7a;
+    background-color: #232323;
+
+}
+.contact h1{
+    margin-top: 8px;
+    margin-bottom: 24px;
+  text-align: center;
+}
+.in{
+    border: 1px solid #7a7a7a;
+    background-color: #131316;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    margin: auto;
+    color: #c9c9c9;
+}
+.fo{
+    
+    margin: auto;
+    width: 50%;
+}
+
